@@ -1,1 +1,1 @@
-# solvedAlgorithms
+Repository with solved algorithms
